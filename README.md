@@ -17,7 +17,9 @@
 ### Videos
 - [Graph Clustering Algorithms](https://www.youtube.com/watch?v=-Afa1WI3iug)
 ### Implementation/Tools
+- [Chinse Whispers](https://github.com/nlpub/chinese-whispers-python)
 
 ### NLP
 - TextRank
 ### Papers
+[Chinese Whispers - an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems](http://pzs.dstu.dp.ua/DataMining/cluster/bibl/Chinese%20Whispers%20-%20an%20Efficient%20Graph%20Clustering.pdf)
