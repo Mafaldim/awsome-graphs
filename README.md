@@ -4,7 +4,7 @@
 - Useful Articles/Slides
 - Courses
 - Videos
-- Implementation/Tools
+- Implementation - Tools & Libraries
 - Papers
 - Datasets
 
@@ -17,4 +17,5 @@
 ### Videos
 - [Graph Clustering Algorithms](https://www.youtube.com/watch?v=-Afa1WI3iug)
 ### Implementation/Tools
+- 
 ### Papers
