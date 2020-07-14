@@ -10,8 +10,11 @@
 ---
 
 ### Useful Articles
+
+#### Intro to Graphs
 - [Zachary’s Karate Club - article](https://studentwork.prattsi.org/infovis/labs/zacharys-karate-club/)
 - [Zachary’s Karate Club - data source](http://www.konect.cc/networks/ucidata-zachary/)
+- [Community structure in social and biological networks](https://www.pnas.org/content/99/12/7821)
 #### NLP
 - [A graph-based journey from textual data to wisdom](https://graphaware.com/neo4j/2017/10/03/efficient-unsupervised-topic-extraction-nlp-neo4j.html)
 - [Efficient unsupervised keywords extraction using graphs](https://graphaware.com/neo4j/2017/10/03/efficient-unsupervised-topic-extraction-nlp-neo4j.html)
