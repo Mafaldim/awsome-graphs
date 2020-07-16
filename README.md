@@ -20,7 +20,7 @@
 - [Efficient unsupervised keywords extraction using graphs](https://graphaware.com/neo4j/2017/10/03/efficient-unsupervised-topic-extraction-nlp-neo4j.html)
 - [Mining Paradigmatic Word Associations](https://www.lyonwj.com/2015/06/16/nlp-with-neo4j/)
 ### Courses
-
+- https://www.edx.org/course/advanced-algorithmics-and-graph-theory-with-python
 ### Videos
 - [Graph Clustering Algorithms](https://www.youtube.com/watch?v=-Afa1WI3iug)
 
@@ -31,3 +31,4 @@
 
 ### Papers
 [Chinese Whispers - an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems](http://pzs.dstu.dp.ua/DataMining/cluster/bibl/Chinese%20Whispers%20-%20an%20Efficient%20Graph%20Clustering.pdf)
+- ['graph2vec: Learning Distributed Representation of Graphs'](https://arxiv.org/abs/1707.05005)
