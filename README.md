@@ -32,3 +32,13 @@
 ### Papers
 [Chinese Whispers - an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems](http://pzs.dstu.dp.ua/DataMining/cluster/bibl/Chinese%20Whispers%20-%20an%20Efficient%20Graph%20Clustering.pdf)
 - ['graph2vec: Learning Distributed Representation of Graphs'](https://arxiv.org/abs/1707.05005)
+- [Entity Resolution in Graph Data](https://users.umiacs.umd.edu/~getoor/Publications/cs-tr-4758.pdf)
+
+### Books
+- NLP 'Aplied Text Analysis with Python' - Chapter 9. Graph Analysis of Text
+
+[node2vec](https://github.com/eliorc/node2vec)
+https://snap.stanford.edu/node2vec/
+[graph2vec](https://github.com/benedekrozemberczki/graph2vec)
+https://towardsdatascience.com/learning-in-graphs-with-python-part-3-8d5513eef62d
+https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f
